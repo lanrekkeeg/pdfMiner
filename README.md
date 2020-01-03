@@ -3,7 +3,7 @@
 we need to run one script and flask server. script will flaskserver and flaskserver will serve us using postman.
 
 ### Note
-##### Update  ```Root``` variabel in both script to the project root directory
+##### Update  ```Root``` variable in both script to the project root directory
 In pdfminer folder run the following command
 ```
 python pdf2txt.py
